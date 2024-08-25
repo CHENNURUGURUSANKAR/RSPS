@@ -18,6 +18,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/RSPS" element={<Home />} />
           <Route path="/about" element={<AboutUs />} />
           <Route path="/academics" element={<Academics />} />
           <Route path="/admissions" element={<Admissions />} />
