@@ -1,0 +1,38 @@
+/* Footer.css */
+
+.footer {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer-links {
+  margin-top: 10px;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .footer-links {
+    display: block;
+    margin-top: 10px;
+  }
+
+  .footer-links a {
+    display: block;
+    margin: 5px 0;
+  }
+}

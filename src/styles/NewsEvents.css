@@ -1,0 +1,61 @@
+/* NewsEvents.css */
+
+.news-events {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.news-events h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.latest-news,
+.upcoming-events {
+  margin-bottom: 20px;
+}
+
+.latest-news h2,
+.upcoming-events h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.latest-news p,
+.upcoming-events p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.latest-news {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
+.upcoming-events {
+  padding-top: 15px;
+}
+
+@media (max-width: 768px) {
+  .news-events {
+    padding: 15px;
+  }
+
+  .news-events h1 {
+    font-size: 1.5rem;
+  }
+
+  .latest-news h2,
+  .upcoming-events h2 {
+    font-size: 1.25rem;
+  }
+
+  .latest-news p,
+  .upcoming-events p {
+    font-size: 0.875rem;
+  }
+}
