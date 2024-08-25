@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/RSPS/static/css/main.7a282f6a.css",
-    "main.js": "/RSPS/static/js/main.082d4568.js",
+    "main.js": "/RSPS/static/js/main.71033013.js",
     "static/js/453.60b5ed06.chunk.js": "/RSPS/static/js/453.60b5ed06.chunk.js",
     "static/media/rising-star-bg.jpg": "/RSPS/static/media/rising-star-bg.152ae1440f0803f7fa72.jpg",
     "static/media/rising-star-logo.jpg": "/RSPS/static/media/rising-star-logo.497e9f5cbbb4d9c4478f.jpg",
     "static/media/img1.jpeg": "/RSPS/static/media/img1.7893f48a4ceedde1e21e.jpeg",
     "index.html": "/RSPS/index.html",
     "main.7a282f6a.css.map": "/RSPS/static/css/main.7a282f6a.css.map",
-    "main.082d4568.js.map": "/RSPS/static/js/main.082d4568.js.map",
+    "main.71033013.js.map": "/RSPS/static/js/main.71033013.js.map",
     "453.60b5ed06.chunk.js.map": "/RSPS/static/js/453.60b5ed06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a282f6a.css",
-    "static/js/main.082d4568.js"
+    "static/js/main.71033013.js"
   ]
 }
